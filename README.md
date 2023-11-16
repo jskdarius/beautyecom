@@ -1,1 +1,2 @@
-# beautyecom
+Beauty ecommerce website with Python
+
